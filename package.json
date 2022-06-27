@@ -1,0 +1,27 @@
+{
+  "name": "syr-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weeksseth/syr-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/weeksseth/syr-js/issues"
+  },
+  "homepage": "https://github.com/weeksseth/syr-js#readme",
+  "devDependencies": {
+    "fs": "^0.0.1-security",
+    "jest": "^27.5.1",
+    "path": "^0.12.7"
+  },
+  "dependencies": {
+    "deepmerge": "^4.2.2"
+  }
+}
